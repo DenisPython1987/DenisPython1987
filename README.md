@@ -7,6 +7,6 @@
 <div>
   <href>"https://github.com/DenisPython1987"</href>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisPython1987"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisPython1987&showicons=True"/>
   <img height="180em" src="https://github.com/DenisPython1987/github-readme-stats"/>
 </div>
