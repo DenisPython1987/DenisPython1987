@@ -27,7 +27,7 @@
   <href>"https://github.com/DenisPython1987"</href>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisPython1987&show_icons=True&theme=dark"/>
-  <img height="180em" src="https://github.com/DenisPython1987/github-readme-stats&theme=dark"/>
+  <!--<img height="180em" src="https://github.com/DenisPython1987/github-readme-stats&theme=dark"/>-->
 </div>
 
 ##
