@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisPython1987
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking fun
+- 💞️ I’m looking for fun
 - 📫 How to reach me denisandervivan2@gmail.com
 
 ##
