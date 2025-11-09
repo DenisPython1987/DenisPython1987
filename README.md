@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DenisPython1987
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for fun
-- 📫 How to reach me denisandervivan2@gmail.com
+Oi, meu nome é Denisander
 
 ##
 
@@ -17,6 +13,13 @@
 ##
 <div style="display: inline_block"><br>
   <img aling="center" alt="Denis-py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img aling="center" alt="Denis-js" height="50" width="60" src=
+            "<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />"
+  <img aling="center" alt="Denis-HTML" height="50" width="60" src="
+            <i class="devicon-html5-plain-wordmark colored"></i>"
+  <img aling="center" alt="Denis-CSS" height="50" width="60" src="
+            <i class="devicon-css3-plain-wordmark colored"></i>
+          
   
 ##
 
