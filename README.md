@@ -26,7 +26,7 @@ Oi, meu nome é Denisander
   <img height="180em" src="https://github.com/DenisPython1987/github-readme-stats&theme=dark"/>
 </div> -->
 
-##
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPython1987&size_weight=0.5&count_weight=0.5"/>
@@ -38,4 +38,4 @@ Oi, meu nome é Denisander
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DenisPython1987/DenisPython1987/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DenisPython1987/DenisPython1987/output/github-contribution-grid-snake.svg">
 </picture>
-##
+
