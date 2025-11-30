@@ -20,13 +20,11 @@ Oi, meu nome é Denisander
           
   
 ##
-<!--
-<div>
+<!-- <div>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisPython1987&show_icons=true&theme=radical"/>
   <!--<img height="180em" src="https://github.com/DenisPython1987/github-readme-stats&theme=dark"/>-->
-</div>
--->
+</div> -->
 
 ##
 
