@@ -16,22 +16,8 @@ Oi, meu nome é Denisander
   <img aling="center" alt="Denis-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img aling="center" alt="Denis-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img aling="center" alt="Denis-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-          
-          
-  
+
 ##
-<!-- <div>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DenisPython1987&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github.com/DenisPython1987/github-readme-stats&theme=dark"/>
-</div> -->
-
-
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisPython1987&size_weight=0.5&count_weight=0.5"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@DenisPython1987"/>-->
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DenisPython1987/DenisPython1987/output/github-contribution-grid-snake-dark.svg">
