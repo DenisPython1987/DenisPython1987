@@ -9,7 +9,7 @@ Oi, meu nome é Denisander
   <a href="mailto:denisandervivan2@gmail.com" target="_blank"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://wa.me/5516999887105" target="_blank"/><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
 </div>
-https://github-readme-stats.vercel.app/api?username=DenisPython1987)](https://github.com/anuraghazra/github-readme-stats
+
 ##
 <div style="display: inline_block"><br>
   <img aling="center" alt="Denis-py" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
